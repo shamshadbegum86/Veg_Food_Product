@@ -1,0 +1,11 @@
+S.No,Names,Qualities
+1,Ramya,Silent
+2,Nagamani,Good
+3,Devika,Clever
+4,Rehana,Innocent
+5,Gayathri,Helpfull
+6,Raziya,Great
+7,Lakshmi,Honesty
+8,Madhavi,Responsibulity
+9,Muntaz,Kindness
+10,Shabana,V.Clever
